@@ -1,0 +1,4 @@
+1. Import the .sql file into the local mysql database environment.
+2. Type in 'chmod +x initiation.sh' and 'chmod +x start.sh' into the folder's terminal/bash to make said files executable.
+3. Type in 'bash initiation.sh' to run the application initiation process (Setting up virtual environment and installing modules).
+4. When the initiation step is finished type in 'bash start.sh' to start the application.

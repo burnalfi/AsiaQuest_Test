@@ -1,0 +1,1 @@
+./venv/Scripts/flask.exe --app app run --debug
